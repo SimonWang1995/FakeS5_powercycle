@@ -1,0 +1,12 @@
+--------------------------------------------------
+Version: tv1.1
+Release date: 2023-03-07
+Change List:
+1. modify oem command
+2. modify chk_oempowerstatus function
+--------------------------------------------------
+Version: tv1.0
+Release date: 2023-02-08
+Change List: 
+1. First Release
+--------------------------------------------------
